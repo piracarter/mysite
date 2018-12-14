@@ -1,0 +1,4 @@
+# requirements.txt
+
+Django==2.1
+pytest==4.0.2
